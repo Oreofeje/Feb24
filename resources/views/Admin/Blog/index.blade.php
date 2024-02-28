@@ -10,8 +10,8 @@
                         
 						<div class="col">
 							<div class="mt-5">
-								<h3 class="card-title float-left mt-2">Users</h3>
-                                <a href="{{ url('admin/team/create') }}" class="btn btn-primary float-right veiwbutton ">Add New User</a>
+								<h3 class="card-title float-left mt-2">Blogs</h3>
+                                <a href="{{ url('admin/blog/create') }}" class="btn btn-primary float-right veiwbutton ">Add New Blog</a>
                             </div>
 						</div>
 					</div>
@@ -42,7 +42,7 @@
 													
 													<td>
 														<h2 class="table-avatar">
-														<a  class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="{{ asset('images/teams/') }}" alt="User Image"></a>
+														<a  class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="{{ asset('images/teams/') }}" alt="Blog Image"></a>
 														</h2>
 													</td>
 													<td>name</td>

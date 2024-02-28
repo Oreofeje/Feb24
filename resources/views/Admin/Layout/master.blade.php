@@ -118,7 +118,8 @@
 						
 						</li>
     
-						<li> <a href="/admin/blog"><i class="fe fe-table"></i> <span>Blog</span></a> </li>
+						<li> <a href="/admin/blog/index"><i class="fe fe-table"></i> <span>Blog</span></a> </li>
+
 						<li> <a href="/admin/gallery"><i class="far fa-bell"></i> <span>Gallery</span></a> </li>
                         <li> <a href="/admin/team"><i class="fas fa-user"></i> <span>Users</span></a> </li>
 

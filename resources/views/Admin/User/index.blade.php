@@ -1,7 +1,6 @@
 @extends ('Admin.Layout.master')
 
 
-
 @section ('content')
 <div class="page-wrapper">
             
